@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**JoshuaStride/joshuastride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Development and DevOps student at Northcoders excited about a career transition into tech. I've previously graduated from the University of Warwick and am looking for opportunities to develop new knoweldge and skills.
 
-Here are some ideas to get you started:
+💻 I'm currently working through Northcoders' DevOps Engineering course, building a portfolio website, and populating it with projects to showcase what I can do!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 I'm currently developing a broad grounding of software engineering concepts, including honing my skills in:
+- JavaScript
+- HTML
+- CSS
+- Git & version control
+- Command line shells (including Bash & Zsh)
+- Node.js & Express.js
+- SQL
+- Cloud computing
+- Application deployment
+
+🌿 I'd love to learn more about machine learning and AI, as well as UI & UX, so please let me know if you have any projects in those areas where I can continue to grow!
+
+📫 If you're looking to get in touch with me, please drop me a message at joshcstride@googlemail.com.
+
+I hope you enjoy looking around at some of my work!
+
+Joshua Stride (he/him)
