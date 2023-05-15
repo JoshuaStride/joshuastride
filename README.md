@@ -1,8 +1,8 @@
 ### Hello!
 
-I'm a Software Development and DevOps student at Northcoders excited about a career transition into tech. I've previously graduated from the University of Warwick and am looking for opportunities to develop new knoweldge and skills.
+I'm a Cloud and Software Engineering student at Northcoders excited about a career transition into tech. I've previously graduated from the University of Warwick and am looking for opportunities to develop new knoweldge and skills.
 
-💻 I'm currently working through Northcoders' DevOps Engineering course, building a portfolio website, and populating it with projects to showcase what I can do!
+💻 I'm currently working through Northcoders' Cloud Engineering course, building a portfolio website, and populating it with projects to showcase what I can do!
 
 🎓 I'm currently developing a broad grounding of software engineering concepts, including honing my skills in:
 - JavaScript
