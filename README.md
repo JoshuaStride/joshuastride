@@ -1,6 +1,6 @@
 ### Hello!
 
-I'm a Cloud Engineering and Software Development student at [Northcoders]([url](https://northcoders.com/our-courses/coding-bootcamp) excited about a career transition into tech. I've previously graduated from the University of Warwick and am looking for opportunities to develop new knoweldge and skills.
+I'm a Cloud Engineering and Software Development student at [Northcoders](https://northcoders.com/our-courses/coding-bootcamp) excited about a career transition into tech. I've previously graduated from the University of Warwick and am looking for opportunities to develop new knoweldge and skills.
 
 💻 I'm currently working through Northcoders' Cloud Engineering course, building a portfolio website, and populating it with projects to showcase what I can do!
 
