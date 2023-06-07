@@ -7,11 +7,12 @@ I'm a [Cloud Engineering](https://northcoders.com/our-courses/cloud-engineering-
 🎓 I'm focussed on developing a broad grounding of software engineering concepts - such that I can pick up new tech stacks quickly and easily - including honing my skills in:
 - JavaScript
 - AWS
-- Terraform, and other IaC principles.
+- Terraform
 - Kubernetes
 - Docker
 - Prometheus
-- CI/CD
+- CI/CD, including CircleCI
+- GitOps, with Argo CD
 - HTML5
 - CSS3
 - Git/Github
@@ -20,7 +21,8 @@ I'm a [Cloud Engineering](https://northcoders.com/our-courses/cloud-engineering-
 - Express.js
 - node-postgres
 - SQL
-- Agile
+- Agile Methodology
+- Pair Programming
 - Test-Driven Development
 
 🌿 I'd love to learn more about machine learning and AI, and its potential applications in creative sectors, so please let me know if you have any projects in those areas where I can continue to grow!
